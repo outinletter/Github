@@ -1,3 +1,25 @@
+- 저장소 만들기
+  - [로컬 현재 디렉토리를 git 저장소로 만들기](https://wikidocs.net/11070#git)
+  - [원격 저장소를 로컬로 복제(clone)하기](https://wikidocs.net/11070#clone)
+- 여러 가지 예시
+  - [새 파일 저장소에 저장하기 (Untracked -> Staged -> Committed)](https://wikidocs.net/11070#untracked-staged-committed)
+  - [파일을 수정하고 저장소에 저장하기 (Unmodified -> Modified -> Staged -> Committed)](https://wikidocs.net/11070#unmodified-modified-staged-committed)
+  - [작업 디렉토리의 파일의 상태 확인](https://wikidocs.net/11070#_3)
+  - [파일 무시하기](https://wikidocs.net/11070#_4)
+  - [파일 비교](https://wikidocs.net/11070#_5)
+  - [변경사항 커밋하기](https://wikidocs.net/11070#_6)
+  - [파일을 삭제하기](https://wikidocs.net/11070#_7)
+  - [파일 이름 바꾸기](https://wikidocs.net/11070#_8)
+  - 되돌리기
+    - [마지막 커밋 내용을 되돌리기](https://wikidocs.net/11070#_10)
+    - [Staged -> Unstaged](https://wikidocs.net/11070#staged-unstaged)
+    - [Modified -> Unmodified](https://wikidocs.net/11070#modified-unmodified)
+  - [파일 변경이력 조회](https://wikidocs.net/11070#_11)
+
+
+
+
+
 # 원격 저장소(Remote repository)
 
 원격 저장소 = 인터넷이나 네트워크 어딘가에 존재하는 저장소
